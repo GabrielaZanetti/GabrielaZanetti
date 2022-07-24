@@ -3,6 +3,7 @@
 ####  📚 Estou cursando Ciencias da computação => 01/10
 ####  🖍 Estudando React Native 
 ####  💻 E-mail Gabriela.zanetti@unijui.edu.br
+####  💻 Portfólio https://gabrielazanetti.github.io/portifolio/
 <br>
 <div align="center">
   <a href="https://github.com/GabrielaZanetti">
