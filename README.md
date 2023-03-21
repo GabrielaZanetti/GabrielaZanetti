@@ -1,7 +1,7 @@
 ## Ola, me chamo Gabriela.
 ####  👩‍ 💻Sou desenvolvedora front-end
-####  📚 Estou cursando Ciencias da computação => 01/10
-####  🖍 Estudando React Native 
+####  📚 Estou cursando Ciencias da computação => 03/10
+####  🖍 Estudando React Native / Dom
 ####  💻 E-mail Gabriela.zanetti@unijui.edu.br
 ####  💻 Portfólio https://gabrielazanetti.github.io/portifolio/
 <br>
