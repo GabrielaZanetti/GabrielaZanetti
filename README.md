@@ -1,6 +1,6 @@
 ## Ola, me chamo Gabriela.
 ####  👩‍ 💻Sou desenvolvedora front-end
-####  📚 Estou cursando Ciencias da computação => 04/10
+####  📚 Estou cursando Ciencias da computação => 05/10
 ####  🖍 Estudando React Native / Dom
 ####  💻 E-mail gabiisctt@gmail.com
 <br>
