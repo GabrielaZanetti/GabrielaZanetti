@@ -3,7 +3,7 @@
 ####  📚 Estou cursando Ciencias da computação => 05/10
 ####  🖍 Estudando React Native / Dom
 ####  💻 E-mail gabiisctt@gmail.com
-####  💻 Repositório: [GabrielaZanetti](https://gabrielazanetti.github.io/portifolio/)
+####  💻 Portfólio: [GabrielaZanetti](https://gabrielazanetti.github.io/portifolio/)
 <br>
 <div align="center">
   <a href="https://github.com/GabrielaZanetti">
