@@ -1,8 +1,24 @@
 ## Ola, me chamo Gabriela.
-####  👩‍ 💻Sou desenvolvedora front-end
-####  📚 Estou cursando Ciencias da computação
-####  💻 E-mail gabiisctt@gmail.com
+####  👩‍ 💻sou desenvolvedora de software com experiência em desenvolvimento de aplicações web e mobile. Tenho foco em construir soluções robustas, escaláveis e com boa experiência para o usuário final. 
 ####  💻 Portfólio: [GabrielaZanetti](https://gabrielazanetti.github.io/portifolio/)
+
+### Atualmente, trabalho com:
+- **Front-end**:
+
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,angular,flutter,html,sass)](https://skillicons.dev)
+
+- **Back-end**:
+  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,java,php)](https://skillicons.dev)
+
+- **Banco de Dados**:
+  
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev)
+
+- **Outras tecnologias**:
+  
+[![My Skills](https://skillicons.dev/icons?i=git,docker,firebase,figma)](https://skillicons.dev)
+
 <br>
 <div align="center">
   <a href="https://github.com/GabrielaZanetti">
@@ -23,4 +39,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
 </picture>
-<br><br>
