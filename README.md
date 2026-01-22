@@ -5,7 +5,7 @@
 ### Atualmente, trabalho com:
 - **Front-end**:
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,angular,laravel,flutter,html,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,laravel,flutter,html,sass)](https://skillicons.dev)
 
 - **Back-end**:
   
