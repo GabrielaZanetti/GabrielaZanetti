@@ -24,11 +24,11 @@
   <a href="https://github.com/GabrielaZanetti">
     <img
       height="165em"
-      src="https://github-readme-stats-hopa8rmv3-gabrielazanettis-projects.vercel.app/api?username=GabrielaZanetti&show_icons=true&theme=radical&include_all_commits=true"
+      src="https://github-readme-stats-chi-smoky-31.vercel.app/api?username=GabrielaZanetti&show_icons=true&theme=radical&include_all_commits=true"
     />
     <img
       height="165em"
-      src="https://github-readme-stats-hopa8rmv3-gabrielazanettis-projects.vercel.app/api/top-langs/?username=GabrielaZanetti&layout=compact&theme=radical&langs_count=8"
+      src="https://github-readme-stats-chi-smoky-31.vercel.app/api/top-langs/?username=GabrielaZanetti&layout=compact&theme=radical&langs_count=8"
     />
   </a>
 </div>
